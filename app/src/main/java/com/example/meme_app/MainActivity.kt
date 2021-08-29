@@ -46,6 +46,6 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun nextMeme(view: android.view.View) {
-
+        loadMeme()
     }
 }
